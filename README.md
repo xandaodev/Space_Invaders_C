@@ -4,6 +4,7 @@ Uma recriação do clássico Space Invaders desenvolvida em C utilizando a bibli
 
 ## 🎮 Demonstração
 
+![preview](https://github.com/user-attachments/assets/8da4821f-f284-474d-988d-5192a3d5986f)
 
 
 ## 💻 Sobre o Projeto
