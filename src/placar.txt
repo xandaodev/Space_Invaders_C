@@ -1,0 +1,5 @@
+ju 0 2
+ju 0 0
+oi 0 3
+exemplo 0 0
+xandao 0 11

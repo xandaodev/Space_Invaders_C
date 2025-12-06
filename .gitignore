@@ -1,0 +1,12 @@
+# Ignorar executáveis e binários
+jogo
+*.exe
+*.o
+*.so
+*.a
+
+# Ignorar pastas de configuração do VS Code
+.vscode/
+
+# Ignorar a pasta da biblioteca que compilamos (é muito pesada, quem baixar que instale a sua)
+raylib/
